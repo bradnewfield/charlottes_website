@@ -347,3 +347,21 @@ template {
 [hidden] {
   display: none;
 }
+
+p{
+  color: black;
+  background-color: dodgerblue;
+}
+
+header {
+  background-image: url("https://images7.alphacoders.com/372/372776.jpg");
+  height: 200px;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  font-size: xx-large;
+}
+
+footer {
+  text-align-all: center;
+}

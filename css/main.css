@@ -248,7 +248,11 @@ textarea {
     page-break-inside: avoid;
   }
 
-  p,
+  p {
+    color: dodgerblue;
+    background-color: #999999;
+
+  }
   h2,
   h3 {
     orphans: 3;
@@ -260,4 +264,6 @@ textarea {
     page-break-after: avoid;
   }
 }
+
+
 
